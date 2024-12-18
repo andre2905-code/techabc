@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  width: 100vw;
+}
+
+.left {
+  width: 25%;
+}
+
+.center {
+  width: 50%;
+}
+
+.right {
+  width: 25%;
+}
+
+.logo img {
+  width: 160px;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+}
