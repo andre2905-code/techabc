@@ -14,7 +14,9 @@
       <div class="center">
         <div class="search-bar">
           <input type="text" placeholder="Pesquise aqui...">
-          <button id="search-button" class="search" type="submit">Pesquisar</button>
+          <button id="search-button" class="search" type="submit">
+            <i class="fa fa-search"></i>
+          </button>
         </div>
         <nav id="menu" class="navbar">
           <ul>
